@@ -22,7 +22,7 @@ about_profile_image: images/profile.jpg
 about_content: | 
   Hi, my name's Vittorio Guerriero 
 
-  Most of the time I have no idea what I am doing. 
+  Most of the time I have no idea what I am doing.
   
   I have about 10 years of experience, mostly focus on Web applications using Typescript/Javascript.
   I am in love with extreme programming. 
@@ -30,8 +30,8 @@ about_content: |
   
   When refining something, these are some of the questions I ask the team:
      - Why are we doing this?      
-     - How do we know that it works?
-     - How do we know that it doesnt work?
+     - How do we know it works?
+     - How do we know it doesnt work?
 
 content:
   - title: Projects
@@ -52,7 +52,7 @@ content:
           TypeScript transformer to create mocks from any type
         description: | 
           I've started this project with a friend to find a better alternative to the current mocking ecosystem in Typescript.
-          The project has  more than <mark>500</mark> Stars and <mark>30k</mark> downloads a week
+          The project has more than <mark>500</mark> stars and <mark>30k</mark> downloads a week.
           
           ---
 
@@ -64,14 +64,14 @@ content:
           A short break every 30 minutes.
         description: |
           {:refdef: style="text-align: center; width: 50%; margin: auto;" }
-          ![Arduino](images/arduino.jpg "Trees")
+          ![Arduino](images/arduino.jpg "Arduino")
           {: refdef}
           ---
 
       - layout: top-middle
-        title: Wedding website
+        title: My wedding website
         link: https://marlenevittorio.github.io/
-        quote: This is nothing special, but if we want to know me better there is a photo section with some funny pictures about my wedding
+        quote: This is nothing special, but if you want to get to know me better there is a section with some funny wedding pictures
 
   - title: Experience
     layout: list
@@ -85,16 +85,16 @@ content:
         description: |
           At Cazoo we are following Extreme programming practices; TDD, pair programming, mob programming and continuous integration.        
           
-          I initially worked on the team that was responsible for developing and maintaining the web application to allow customers to finance their cars.
+          I initially worked with the team that was responsible for developing and maintaining the web application to allow customers to finance their cars.
           After a few months I've started mentoring other engineers to improve the quality of their systems.
           
-          My main focus is currently to teach/mentor/coach other engineers in testing practices, quality, observability and pair programming techniques.
-          I've introduced a few teams to hexagonal architecture and domain driven design. I strongly believe that engineers need day to day coaching within the team.
-          Most companies, Cazoo includes, assume that coaching is a given skill of Senior software engineers, but it is often forgotten that it is a skill that needs to be nurtured and trained.
+          My main focus is to teach/mentor/coach other engineers in testing practices, quality, observability and pair programming techniques.
+          I've introduced a few teams to hexagonal architecture and domain driven design. I strongly believe that engineers need day to day coaching within their team.
+          Most companies, assume that coaching is a given skill of Senior software engineers, but it is often forgotten that it needs to be nurtured and trained.
           
           I've lead an initiative to improve and scale contract testing.
           
-          Contract testing is a beauty and still a controversial topic. We were trying to reduce the amount of slow/brittle e2e testing on our application via using Contract testing.
+          Contract testing is a beauty and still a controversial topic. We were trying to reduce the amount of slow/brittle e2e tests via using Contract testing.
           Teams struggled to find common practices and to set up contract testing correctly. I've helped define and implement common tools to implement Contract testing.  
       
           What did I learn? Too much to list here!
@@ -108,7 +108,7 @@ content:
           - Trunk based development
           - Observability
           - Domain driven design
-          - ... and more                
+          - ... and more
 
       - layout: left
         title: Liberis
@@ -119,13 +119,13 @@ content:
         quote: >
           Short but sweet
         description: |
-          At Liberis I had the opportunity to help the engineering team to define their frontend application architecture.
-          The team was originally using a beautiful functional framework called Elm, for hiring purposes Liberis decided to move to React.
+          At Liberis I had the opportunity to help the engineering team to define their frontend applications architecture.
+          The team was originally using a functional framework called Elm. For hiring purposes Liberis decided to move to React.
           I've organised sessions and created templates to simplify the work to migrate to React. 
           
           What did I learn?
           
-          Liberis was my second experience as a full stack engineer. 
+          Liberis was my second experience as a full stack engineer.
           The company was moving from on-premises services to the cloud! Wow. I didn't even know the meaning of on-premises! :)
           While helping with frontend technologies I dive into Kubernetes, docker and Azure cloud.           
 
@@ -136,20 +136,20 @@ content:
         sub_title: Frontend engineer
         caption: May 2015 - June 2018
         quote: >
-          Vittorio, welcome to the UK!! New adventure ahead.
+          Vittorio, welcome to the UK!! New adventures ahead.
         description: |
           I am originally from Italy. In 2015 I made a bold move, I've decide to move to the UK.
-          I had a few years of self taught experience in programming, I had no idea what would be working in a bigger company where they use works like Agile, testing, deployments.
+          I had a few years of self taught experience in programming, I had no idea what would be working in a bigger company where they use words like Agile, testing, deployments, etc.
           
           MHR was a though journey because I had no real commercial experience in programming. After a few months of struggle I step up and made a difference.
-          I've stared exploring concept such as SOLID, Agile and test driven development. The company was not really doing these things right but with a small working group we've managed to learn these independently.                 
+          I've stared exploring concept such as SOLID, Agile and test driven development. The company was not really doing these things but with a small working group we've managed to learn these independently and shared team with the company.                 
 
   - title: A Little More About Me
     layout: text
     content: | 
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:      
-      - Gaming - 
-      - Baking - I don't like cooking but I love baking bread!!          
+      Alongside my interests in software engineering some of my other interests and hobbies are:      
+      - Gaming - I used to play many games, now I have a son, so...
+      - Baking - I don't like cooking but I love baking bread!!      
 
 footer_show_references: true
 
