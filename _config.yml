@@ -63,8 +63,8 @@ content:
           Every developer needs a break! I've created this device to help me focus while working. 
           A short break every 30 minutes.
         description: |
-          {:refdef: style="text-align: center;"}
-          ![Trees](/images/arduino.jpg "Trees")
+          {:refdef: style="text-align: center; width: 50%; margin: auto;" }
+          ![Arduino](/images/arduino.jpg "Trees")
           {: refdef}
           ---
 
