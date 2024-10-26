@@ -65,14 +65,15 @@ content:
     content:
       - layout: left
         title: Dataglide
-
+        quote: >
+          A lot of experiments
         sub_title: Senior Software Engineer
         caption: April 2023 - Present
         description: |
-          "At Dataglide, I guided the software engineering team in elevating their CI/CD, pair programming, and testing practices.
-          I championed a ‘push-directly-to-production’ approach, which drove significant improvements in observability, testing rigor, and team trust. 
+          At Dataglide, I guided the software engineering team in improving their CI/CD, pair programming, and testing practices.
+          I advised a ‘push-directly-to-production’ approach, which drove significant improvements in observability, testing practises, and team trust. 
           As a result, the team naturally developed dashboards and alerting systems to monitor system performance. 
-          I also introduced them to software teaming and mob programming, fostering greater collaboration and adaptability." 
+          I also introduced them to software teaming and mob programming, fostering greater collaboration and adaptability. 
 
       - layout: left
         title: Cazoo
