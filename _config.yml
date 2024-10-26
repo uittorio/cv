@@ -19,19 +19,9 @@ additional_links:
   url: https://typescript-tdd.github.io/ts-auto-mock/
 
 about_profile_image: images/profile.jpg
-about_content: | 
-  Hi, my name's Vittorio 
-
-  Most of the time I have no idea what I am doing.
-  
-  I have about 10 years of experience, mostly focus on Web applications using Typescript/Javascript.
-  I am in love with extreme programming. 
-  I love that each single commit, even one line of code, should go the fastest way possible to production! 
-  
-  When refining something, these are some of the questions I ask the team:
-     - Why are we doing this?      
-     - How do we know it works?
-     - How do we know it doesnt work?
+about_content: |
+  I bring nearly a decade of experience, primarily in web application development, with deep expertise in JavaScript, TypeScript, and C#. 
+  I'm passionate about extreme programming principles, believing in reducing the feedback loop to the smallest cycle, from the technical side to the product side. 
 
 content:
   - title: Projects
@@ -40,19 +30,16 @@ content:
       - layout: top-middle
         title: Ts auto mock
         link: https://typescript-tdd.github.io/ts-auto-mock/
-        # link_text: Project Website
         additional_links:
           - title: github link
             icon: fab fa-github
             url: https://github.com/Typescript-TDD/ts-auto-mock/
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           TypeScript transformer to create mocks from any type
         description: | 
           I've started this project with a friend to find a better alternative to the current mocking ecosystem in Typescript.
           The project has more than <mark>500</mark> stars and <mark>30k</mark> downloads a week.
+          This project helped us exploring different ways of testing, how to build functionalities for others and how to collaborate with developers we've never worked with
           
           ---
 
@@ -77,28 +64,37 @@ content:
     layout: list
     content:
       - layout: left
+        title: Dataglide
+
+        sub_title: Senior Software Engineer
+        caption: April 2023 - Present
+        description: |
+          "At Dataglide, I guided the software engineering team in elevating their CI/CD, pair programming, and testing practices.
+          I championed a ‘push-directly-to-production’ approach, which drove significant improvements in observability, testing rigor, and team trust. 
+          As a result, the team naturally developed dashboards and alerting systems to monitor system performance. 
+          I also introduced them to software teaming and mob programming, fostering greater collaboration and adaptability." 
+
+      - layout: left
         title: Cazoo
         link: cazoo.co.uk
 
         sub_title: Senior Software Engineer
-        caption: December 2019 - Present
+        caption: December 2019 - April 2023
         description: |
-          At Cazoo we are following Extreme programming practices; TDD, pair programming, mob programming and continuous integration.        
+          At Cazoo we were following Extreme programming practices; TDD, pair programming, mob programming and continuous integration.        
           
           I initially worked with the team that was responsible for developing and maintaining the web application to allow customers to finance their cars.
           After a few months I've started mentoring other engineers to improve the quality of their systems.
           
-          My main focus is to teach/mentor/coach other engineers in testing practices, quality, observability and pair programming techniques.
-          I've introduced a few teams to hexagonal architecture and domain driven design. I strongly believe that engineers need day to day coaching within their team.
-          Most companies, assume that coaching is a given skill of Senior software engineers, but it is often forgotten that it needs to be nurtured and trained.
+          My main focus was to teach/mentor/coach other engineers in testing practices, quality, observability and pair programming techniques.
+          I've introduced a few teams to hexagonal architecture and domain driven design.
           
           I've lead an initiative to improve and scale contract testing.
           
           Contract testing is a beauty and still a controversial topic. We were trying to reduce the amount of slow/brittle e2e tests via using Contract testing.
           Teams struggled to find common practices and to set up contract testing correctly. I've helped define and implement common tools to implement Contract testing.  
       
-          What did I learn? Too much to list here!
-          Finally, a company where extreme programming techniques are actually practised.
+          What did I learn/improve?
           - Test driven development
           - Mob programming
           - Pair programming
@@ -143,13 +139,7 @@ content:
           
           MHR was a though journey because I had no real commercial experience in programming. After a few months of struggle I step up and made a difference.
           I've stared exploring concept such as SOLID, Agile and test driven development. The company was not really doing these things but with a small working group we've managed to learn these independently and shared team with the company.                 
-
-  - title: A Little More About Me
-    layout: text
-    content: | 
-      Alongside my interests in software engineering some of my other interests and hobbies are:      
-      - Gaming - I used to play many games, now I have a son, so...
-      - Baking - I don't like cooking but I love baking bread!!      
+      
 
 footer_show_references: true
 
